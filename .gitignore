@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Testing
+.pytest_cache/
+test.db
+
+# Local DB
+dev.db
+
+# IDE
+.idea/
+.vscode/
+
+# Env / secrets
+.env
+
+# Docker
+pgdata/

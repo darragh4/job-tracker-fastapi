@@ -20,3 +20,5 @@ dev.db
 
 # Docker
 pgdata/
+
+test*.db
